@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="super_v1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/SUPERMARKET/super_v1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="super_v1">
+				<Option output="D:/SUPERMARKET/super_v1/cmake-build-debug/super_v1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SUPERMARKET/super_v1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 super_v1"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="super_v1/fast">
+				<Option output="D:/SUPERMARKET/super_v1/cmake-build-debug/super_v1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SUPERMARKET/super_v1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 super_v1/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/SUPERMARKET/super_v1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/SUPERMARKET/super_v1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/SUPERMARKET/super_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/SUPERMARKET/super_v1/BackupRestore.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/BackupRestore.h">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/ChangeGoodsInfo.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/ChangeGoodsInfo.h">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/DailySum.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/DailySum.h">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/FindGoods.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/FindGoods.h">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/SoldOut.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/SoldOut.h">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/StockTaking.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/StockTaking.h">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/VIP.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/VIP.h">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/admin.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/admin.h">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/fx.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/input.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/input.h">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/main.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/output.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/output.h">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/setdiscount.c">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/setdiscount.h">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/structandfx.h">
+			<Option target="super_v1"/>
+		</Unit>
+		<Unit filename="D:/SUPERMARKET/super_v1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+D:/SUPERMARKET/super_v1/cmake-build-debug/CMakeFiles/super_v1.dir
+D:/SUPERMARKET/super_v1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SUPERMARKET/super_v1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
